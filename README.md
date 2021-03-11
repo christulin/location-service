@@ -10,6 +10,6 @@
 ## Usage
 
 > Make sure you have a `.env` file following `example.env` template
-> `npm i` to install dependencies
-> `npm run seed` seeds mongodb with fake nearby transit data
-> `npm run build` to produce bundle for prod.  `npm run start` && `npm run server` for local development
+ - `npm i` to install dependencies
+ - `npm run seed` seeds mongodb with fake nearby transit data
+ - `npm run build` to produce bundle for prod.  `npm run start` && `npm run server` for local development
