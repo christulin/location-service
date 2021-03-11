@@ -1,6 +1,7 @@
 # Location Service
 
-> A react project that fetches data to display 
+> A react project that fetches geojson/nearby transit data to display on interactive map using the mapbox API.
+> Seperate service must be running to fetch geojson
 
 ## Related Projects
 
