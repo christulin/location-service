@@ -1,38 +1,15 @@
-# Project Name
+# Location Service
 
-> Project description
+> A react project that fetches data to display 
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - See https://github.com/orgs/space-work/dashboard for full project
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
 
 ## Usage
 
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
+> Make sure you have a `.env` file following `example.env` template
+> `npm i` to install dependencies
+> `npm run seed` seeds mongodb with fake nearby transit data
+> `npm run build` to produce bundle for prod.  `npm run start` && `npm run server` for local development
